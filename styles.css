@@ -4,13 +4,13 @@ main{
   height: 100vh;
   justify-content: center;
   align-items: center;
-
+  background-color: #a3a2a2;
 }
 
 .container{
   display: flex;
   flex-direction: column;
-  background: rgb(255,198,0);
+  background: rgb(255, 89, 0);
   width: 400px;
   height: 600px;
   align-items: center;
@@ -56,7 +56,7 @@ button{
   height: 40px;
   font: bold 1.2rem serif;
   background: #000;
-  color: rgb(255,198,0);
+  color: rgb(255, 89, 0);
   outline: none;
   border-radius: 5px;
   cursor: pointer;
